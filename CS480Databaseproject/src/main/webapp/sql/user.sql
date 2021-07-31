@@ -1,7 +1,7 @@
-CREATE DATABASE bookstore;
+CREATE DATABASE alzheimer_team;
 
 
-use  bookstore;
+USE  alzheimer_team;
 
 CREATE TABLE tb_user 
 (

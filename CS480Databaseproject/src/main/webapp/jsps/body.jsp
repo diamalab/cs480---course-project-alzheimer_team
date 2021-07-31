@@ -22,6 +22,6 @@
   </head>
   
   <body>
-    <h1>Herve Chendjou Welcome you to the Alzheimer conference</h1>
+    <h1>Welcome to our Alzheimer Conference</h1>
   </body>
 </html>
