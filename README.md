@@ -7,7 +7,7 @@ cs480---course-project-alzheimer_team created by GitHub Classroom
 1. [Database description](#description)
  
 # Database
-DATABASE NAME
+alzheimer_team
 # Author(s)
 Herve CHendjou
 
